@@ -10,7 +10,7 @@ Feel free to connect with me on my [LinkedIn](www.linkedin.com/in/izaac-rego-car
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeXw60PqPfzbgirJoDQ_mmEO4_7O2NGhYr-P7lp7lMPlyVH4i1hQtM06Gg0rfDUJzHPrI&usqp=CAU" width="59"/>
         <!--img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/officedatabase_104402.png" width="60"/-->
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="160px"/>
-        <img src="https://repository-images.githubusercontent.com/657248114/d3c7b91a-b285-4d1e-8429-5de1acc5f61e" width="80"/>
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="80"/>
   </div>    
 
 <!--![Uploading java.png…]()
