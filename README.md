@@ -1,8 +1,8 @@
-### Hi there, I'm Izaac 👋
+<!--### Hi there, I'm Izaac 👋
 
 I am currently studying Analysis and Systems Development (3rd semester) at Universidade da Amazônia (UNAMA). As an enthusiast of Java programming language I am always searching for ways to deepen my knowledge about it and its related technologies, I am looking forward to collaborate on the development of back-end projects.
 
-Feel free to connect with me on my [LinkedIn](www.linkedin.com/in/izaac-rego-cardoso) or [e-mail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox).
+Feel free to connect with me on my [LinkedIn](www.linkedin.com/in/izaac-rego-cardoso) or [e-mail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox).-->
 
 ### Languages and Tools:
   <div>
