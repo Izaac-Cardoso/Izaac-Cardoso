@@ -6,7 +6,7 @@ Feel free to connect with me on my [LinkedIn](www.linkedin.com/in/izaac-rego-car
 
 ### Languages and Tools:
   <div>
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="100"/>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F158094%2Fjava&psig=AOvVaw2U2osM5DAUp-_Qg65lX5Sa&ust=1764284594164000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMD4h8X2kJEDFQAAAAAdAAAAABAE" width="100"/>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeXw60PqPfzbgirJoDQ_mmEO4_7O2NGhYr-P7lp7lMPlyVH4i1hQtM06Gg0rfDUJzHPrI&usqp=CAU" width="59"/>
         <!--img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/officedatabase_104402.png" width="60"/-->
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="160px"/>
